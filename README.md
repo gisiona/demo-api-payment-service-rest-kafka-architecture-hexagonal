@@ -1,0 +1,1 @@
+# demo-api-payment-service-rest-kafka-architecture-hexagonal
